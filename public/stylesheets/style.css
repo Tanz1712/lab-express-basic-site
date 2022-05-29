@@ -1,12 +1,16 @@
 body {
     color: blue;
-    background-color: bisque;
+    background-color: black;
     text-align: center;
-    display: block;
-    align-items: center;
+    color: white;
+    margin: 50px 100px;
   }
 
   img {
-      width: 800px;
-      height: auto;
+      width: 350px;
+      height: 400px;
+  }
+
+  p {
+    text-align: center;
   }
